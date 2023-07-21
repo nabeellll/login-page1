@@ -1,0 +1,51 @@
+
+body{
+    background-image:url('bg.jpg') ;
+   background-repeat: no-repeat; 
+   background-size: cover;
+}
+h1{
+    color: white;
+    font-size:xx-large;
+    FONT-FAMILY: sans-serif;
+}
+input.T1{
+    background-color: transparent;
+    border-radius: 2rem;
+    color: white;
+    width: 21rem;
+    height: 41px;
+    text-align: center;
+
+}
+input.T2{
+    background-color: transparent;
+    border-radius: 2rem;
+    width: 21rem;
+    height: 41px;
+    text-align: center;
+    color: white;
+   
+}
+input.T3{
+    width: 21rem;
+    height: 41px;
+    border-radius: 2rem;
+    font-size:x-large;
+    font-family: sans-serif;
+}
+form{
+    text-align: center;
+    position: relative;
+    top: 100px;
+   padding-left: 33rem;
+   padding-top: 83px;
+    width: 30rem;
+}
+img.img1{
+    width: 2rem;
+    height: 33px;
+    padding-top: 0px;
+    padding-left: 604px;
+    border-radius: 2rem;
+}
